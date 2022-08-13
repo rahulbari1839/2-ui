@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 f3a738c9716d6ababa6729854552e315539f03a9 rahulbari1839 <rahulbari1839@gmail.com> 1660382186 +0530	commit (initial): first commit
+f3a738c9716d6ababa6729854552e315539f03a9 0000000000000000000000000000000000000000 rahulbari1839 <rahulbari1839@gmail.com> 1660382202 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f3a738c9716d6ababa6729854552e315539f03a9 rahulbari1839 <rahulbari1839@gmail.com> 1660382202 +0530	Branch: renamed refs/heads/master to refs/heads/main
+f3a738c9716d6ababa6729854552e315539f03a9 c88b5a8d459afaf47dca9182895a420fcb1f262c rahulbari1839 <rahulbari1839@gmail.com> 1660382542 +0530	commit: second commit
+c88b5a8d459afaf47dca9182895a420fcb1f262c 0000000000000000000000000000000000000000 rahulbari1839 <rahulbari1839@gmail.com> 1660382550 +0530	Branch: renamed refs/heads/main to refs/heads/main
+c88b5a8d459afaf47dca9182895a420fcb1f262c c88b5a8d459afaf47dca9182895a420fcb1f262c rahulbari1839 <rahulbari1839@gmail.com> 1660382550 +0530	Branch: renamed refs/heads/main to refs/heads/main
+c88b5a8d459afaf47dca9182895a420fcb1f262c ae05486db73d3d1f473fb9fc82ba6499f602e5a8 rahulbari1839 <rahulbari1839@gmail.com> 1660382787 +0530	commit: add sql dummy data file
+ae05486db73d3d1f473fb9fc82ba6499f602e5a8 0000000000000000000000000000000000000000 rahulbari1839 <rahulbari1839@gmail.com> 1660382795 +0530	Branch: renamed refs/heads/main to refs/heads/main
+ae05486db73d3d1f473fb9fc82ba6499f602e5a8 ae05486db73d3d1f473fb9fc82ba6499f602e5a8 rahulbari1839 <rahulbari1839@gmail.com> 1660382795 +0530	Branch: renamed refs/heads/main to refs/heads/main
+ae05486db73d3d1f473fb9fc82ba6499f602e5a8 fab73038bc3c485c8bad61b22f8e9a1374e51014 rahulbari1839 <rahulbari1839@gmail.com> 1660396373 +0530	commit: event test with ui
+fab73038bc3c485c8bad61b22f8e9a1374e51014 0000000000000000000000000000000000000000 rahulbari1839 <rahulbari1839@gmail.com> 1660396380 +0530	Branch: renamed refs/heads/main to refs/heads/main
+fab73038bc3c485c8bad61b22f8e9a1374e51014 fab73038bc3c485c8bad61b22f8e9a1374e51014 rahulbari1839 <rahulbari1839@gmail.com> 1660396380 +0530	Branch: renamed refs/heads/main to refs/heads/main
